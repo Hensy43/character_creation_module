@@ -4,7 +4,7 @@ from graphic_arts.start_game_banner import run_screensaver
 
 
 def attack(char_name: str, char_class: str) -> str:
-    """Данная функция определяет колличество.
+    """Данная функция определяет pip install asciimaticsколличество.
     нанесенного урона, в зависимости от класса бойца.
     """
     if char_class == 'warrior':
